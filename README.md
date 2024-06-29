@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @William K
+- 👋 Hi, I’m @William  
 - 👀 I’m interested in the Blockhain, Crypto, Nfts, DAO
 - 🌱 I’m currently learning Web3 Development.
 - 💞️ I’m looking to collaborate on your Web3 Project
